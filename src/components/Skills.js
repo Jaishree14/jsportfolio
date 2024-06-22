@@ -9,15 +9,17 @@ function Skills() {
         <div className="skills-section">
           <h3>Technical Skills</h3>
           <ul>
-            <li>Java, HTML, CSS, jQuery, PHP, SQL</li>
-            <li>Software and Web Development</li>
+            <li>Python, Javascript, Node.js, Reactjs, SQL</li>
+            <li>AWS, Azure, Docker, CI/CD</li>
+            <li>Pandas, NLTK, scikit-learn,NumPy </li>
           </ul>
         </div>
         <div className="skills-section">
           <h3>Languages</h3>
           <ul>
-            <li>American English (Native)</li>
-            <li>French (B2 Certificate)</li>
+            <li>English (Fluent)</li>
+            <li>German (A2 Certificate)</li>
+            <li>Hindi (Native)</li>
           </ul>
         </div>
       </div>
