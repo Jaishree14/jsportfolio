@@ -370,3 +370,74 @@ body, html {
     color: #ccc;
   }
   
+  /* Media Queries for Mobile Devices */
+
+@media (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+  }
+
+  .navbar a {
+    margin: 0.5rem 0;
+  }
+
+  .home-text h1 {
+    font-size: 2rem;
+  }
+
+  .about-content {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .profile-image {
+    width: 150px;
+    height: 150px;
+    margin: 0 0 1rem 0;
+  }
+
+  .about-text {
+    text-align: center;
+  }
+
+  .skills-content {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .work-content {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .work-item {
+    flex: 1 1 100%;
+    max-width: 100%;
+  }
+
+  .testimonials-content {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .testimonial-item {
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+
+  .contact {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .contact-info {
+    align-items: center;
+    text-align: center;
+  }
+
+  .contact-image img {
+    max-width: 100%;
+    height: auto;
+  }
+}
