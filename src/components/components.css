@@ -11,7 +11,7 @@ body, html {
   
   section {
     width: 100%;
-    height: 90vh; /* Make each section take full screen height */
+    height: 100vh; /* Make each section take full screen height */
     display: flex;
     justify-content: center;
     align-items: center;
