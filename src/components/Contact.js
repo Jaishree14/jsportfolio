@@ -1,6 +1,6 @@
 import React from 'react';
 import './components.css';
-import contactImage from './contactImage.jpg';
+import contactImage from './contact2.jpg';
 
 
 function Contact() {
