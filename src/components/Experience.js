@@ -12,7 +12,7 @@ function Experience() {
           <div className="timeline-content">
             <h4>Analyst</h4>
             <p>Deloitte</p>
-            <p>Developed and implemented a web application, optimized performance, and ensured seamless AWS/Azure deployment. Monitored application performance with Application Insights, streamlined change management with ServiceNow, and actively participated in Agile meetings. Investigated and resolved defects, ensuring smooth operations and continuous improvements.</p>
+            <p>Managed 15+ servers in a critical Azure infrastructure with MySQL databases. Established Azure CI/CD pipelines using DevOps YAML, configuring build and release stages. Added tasks to build Docker images, ensuring proper authentication and specifications, enhancing deployment efficiency and reliability. Investigated and resolved defects, ensuring smooth operations and continuous improvements.</p>
           </div>
         </div>
 
@@ -21,7 +21,7 @@ function Experience() {
           <div className="timeline-content">
             <h4>Software Engineer - Intern</h4>
             <p>Deloitte</p>
-            <p>Managed 15+ servers in a critical Azure infrastructure with MySQL databases. Established Azure CI/CD pipelines using DevOps YAML, configuring build and release stages. Added tasks to build Docker images, ensuring proper authentication and specifications, enhancing deployment efficiency and reliability.</p>
+            <p>Developed and implemented a web application, optimized performance, and ensured seamless AWS/Azure deployment. Monitored application performance with Application Insights, streamlined change management with ServiceNow, and actively participated in Agile meetings.</p>
           </div>
         </div>
         </div>
