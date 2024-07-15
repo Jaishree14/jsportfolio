@@ -12,8 +12,8 @@ function  SampleWork() {
       <div className="work-content">
         <div className="work-item">
           <img src={sampleWorkimg1} alt="AI-Powered Click Analytics System" />
-          <h4>AI-Powered Click Analytics System</h4>
-          <p>It uses machine learning to analyze user interactions, predict behavior, and optimize website performance for better engagement.</p>
+          <h4>Automotive Vehicles Engine Health</h4>
+          <p>It uses machine learning to analyze health and optimize vehicle performance.</p>
         </div>
         <div className="work-item">
           <img src={sampleWorkimg3} alt="Berou Inc.'s HR System" />

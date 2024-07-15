@@ -1,6 +1,6 @@
 import React from 'react';
 import './components.css';
-import homeImage from './homeImage.jpg';
+import homeImage from './imgg22.jpg';
 
 function Home() {
   return (
